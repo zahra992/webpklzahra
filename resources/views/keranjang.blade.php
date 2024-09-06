@@ -134,7 +134,6 @@
             <div class="col-md-8">
                 <div class="card-body">
                 <h5 class="card-title"> Meja Minimalis Tamu</h5>
-                <p class="card-text text-muted">Tasbih dari kayu cendana berkualitas tinggi.</p>
                 <div class="d-flex justify-content-between align-items-center">
                     <span class="text-primary fw-bold">Rp 50.000</span>
                   <button class="btn btn-outline-danger btn-sm">Hapus</button>
