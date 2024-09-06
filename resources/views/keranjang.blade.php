@@ -143,61 +143,6 @@
           </div>
         </div></div> 
 
-        <!-- Item Kedua -->
-        <div class="card shadow-sm">
-            <div class="row g-0 align-items-center">
-            <div class="col-md-4">
-              <img src="https://via.placeholder.com/300" class="img-fluid product-image" alt="Produk Religius">
-            </div>
-            <div class="col-md-8">
-                <div class="card-body">
-                <h5 class="card-title">Tasbih Kayu</h5>
-                <p class="card-text text-muted">Tasbih dari kayu cendana berkualitas tinggi.</p>
-                <div class="d-flex justify-content-between align-items-center">
-                    <span class="text-primary fw-bold">Rp 50.000</span>
-                  <button class="btn btn-outline-danger btn-sm">Hapus</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Summary Section -->
-      <div class="col-lg-4">
-        <div class="card shadow-sm">
-          <div class="card-header text-center">
-              <h4 class="mb-0">Ringkasan Pesanan</h4>
-          </div>
-          <div class="card-body">
-            <ul class="list-group list-group-flush mb-3">
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                  Subtotal
-                  <span>Rp 200.000</span>
-                </li>
-                <li class="list-group-item d-flex justify-content-between align-items-center">
-                    Pajak
-                <span>Rp 10.000</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center highlight">
-                <strong>Total</strong>
-                <strong>Rp 210.000</strong>
-              </li>
-            </ul>
-            <a href="chekout" class="btn btn-primary">checkout</a>
-        </div>
-    </div>
-</div>
-</div>
-</div>
-
-<!-- Footer -->
-<footer class="text-center">
-    <div class="container">
-        <p class="footer-text">&copy; 2024 E-commerce Religius. All rights reserved.</p>
-    </div>
-</footer>
-
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
